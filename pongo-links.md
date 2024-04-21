@@ -9,8 +9,6 @@ _This resource list is for Lgbtqia specific resources.__If you would like to add
 
 Chapters:
 
-
-
 1. Crisis Hotlines_
 
 b. Resources
