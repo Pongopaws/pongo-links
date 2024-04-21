@@ -1,18 +1,17 @@
-SourceURL:file:///run/user/1000/doc/3743b593/Worldwide Resources.rtf
 
 Worldwide LGBT Resources list
 
-**Disclaimer:****This advice is based on our lived experience, we are not doctors/therapists/lawyers/experts.****Any products/companies we list don't reflect Trans Academy as a whole.****Please use your own discretion and research with any advice listed.****Always seek the advice of your qualified health care provider regarding any medical questions.**
+**Disclaimer:****This advice is based on our lived experience, we are not doctors/therapists/lawyers/experts.****Please use your own discretion and research with any advice listed.****Always seek the advice of your qualified health care provider regarding any medical questions.**
 
 **-----------------------------------------------------------------------------------------------------------**
 
-_This resource list is for Lgbtqia specific resources.__If you would like to add something to this list, please @Pongo on discord._
+_This resource list is for Lgbtqia specific resources.__If you would like to add something to this list, please ask Pongo.
 
 Chapters:
 
-1. **Server Guide**
 
-a. _Crisis Hotlines_
+
+1. Crisis Hotlines_
 
 b. Resources
 
@@ -123,6 +122,8 @@ i. Texas BIPOC
 d.  Asian & Pacific Islander
 
 e. Mental Health for BIPOC
+
+
 
 **Crisis Hotlines:**
 
@@ -357,22 +358,6 @@ Gender &Sexuality helplines
 You are not alone. It's only together that we can get through the darkness.  
 Please reach out to a loved one or a professional.
 
-**Trans Academy Discord Server Guide:**
-
-● Checkout our “**Resources**” Channel in discord
-
-![](file:////tmp/wps-puppy/ksohtml/wpsTacS0J.jpg)
-
-● **Voice classes & Voice Office Hours** are posted in the “Events” tab on top of the server.
-
-select Events, and click "interested" and you can have it remind you of the event.
-
-![](file:////tmp/wps-puppy/ksohtml/wpscH8Wum.jpg)
-
-● **Notices** Channel**:** Updates on new events and classes happening in the academy
-
-![](file:////tmp/wps-puppy/ksohtml/wpscZur29.jpg)
-
 **Socially transitioning:**
 
 Passing:
@@ -505,13 +490,7 @@ Food Pantry Finder: [https](https://foodfinder.us)[://](https://foodfinder.us)[f
 *want to add more here? Contact Pongo on discord*
 
 **Job training?**
-
-Check out the discord server events and notices tabs for more information on upcoming classes to help you achieve your goals and learn life skills.  
-
-We currently have: Intro to Computer Science class.  
-This is a free course and goes at your own pace with our instructor.
-
-![](file:////tmp/wps-puppy/ksohtml/wpszzYJv2.jpg) 
+ Coming soon.
 
 **Medically transitioning****Always follow your doctor’s recommendations**
 
@@ -927,8 +906,6 @@ Online Zoom class for Yoga & Meditation
 
 _____________________________________________________
 
-**Want to add something here?**
-
-**Let @Pongo on Discord know (:**
+**Want to add something here?** Let Pongo know.
 
 **Thanks!**
